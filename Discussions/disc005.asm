@@ -4,13 +4,13 @@
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 
 
-LDA 2088h   ;Loads data from 2088 into A (accumulator).
-MOV B A     ;Value of A is moved to B.
-LDA 2089h   ;Loads data from 2089 into A (accumulator).
-MOV C A     ;Value of A is moved to C.
-LDA 208Ah   ;Loads data from 208A into A (accumulator).
-MOV D A     ;Value of A is moved to D.
-LDA 208Bh   ;Loads data from 208B into A (accumulator).
-MOV E A     ;Value of A is moved to E.
-LDA 208Ch   ;Loads data from 208C into A (accumulator).
-MOV H A     ;Value of A is moved to H.
+LDA 2088h   ; Loads data from 2088 into A (accumulator).
+MOV B A     ; Value of A is moved to B.
+LDA 2089h   ; Loads data from 2089 into A (accumulator).
+MOV C A     ; Value of A is moved to C.
+LDA 208Ah   ; Loads data from 208A into A (accumulator).
+MOV D A     ; Value of A is moved to D.
+LDA 208Bh   ; Loads data from 208B into A (accumulator).
+MOV E A     ; Value of A is moved to E.
+LDA 208Ch   ; Loads data from 208C into A (accumulator).
+MOV H A     ; Value of A is moved to H.
